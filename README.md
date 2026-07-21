@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Kashaf Noor 👋
 
-<!--
-**kashafnoor-38/kashafnoor-38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | 🎓 BS Information Technology Student
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer and BS Information Technology student who enjoys building responsive, user-friendly, and modern web applications. I'm always eager to learn new technologies and improve my development skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BS Information Technology Student
+- 💻 Passionate Frontend Developer
+- 🌱 Currently learning React.js
+- 🚀 Interested in Modern Web Development
+- 📚 Lifelong Learner
+- 🌿 Nature Lover
+
+---
+
+## 🎯 Focus Areas
+
+- Frontend Development
+- Responsive Web Design
+- User Interface (UI)
+- React.js
+- Modern JavaScript
+- Clean & Maintainable Code
+
+---
+
+## 💡 Interest Areas
+
+- 🌐 Web Development
+- 💻 Coding
+- 🎨 UI Design
+- 🚀 Learning New Technologies
+- 🤝 Open Source Projects
+- 📖 Continuous Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- HTML5
+- CSS3
+- JavaScript
+
+### Frameworks & Libraries
+- Bootstrap
+- React.js
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+- 🏥 Hospital Management System (React)
+- 🏦 Basic Banking System (Java Swing)
+- 🎓 Student Grade Calculator (Java Swing)
+- 🔢 Number Guessing Game (Java)
+- 🧮 Simple Calculator (Java)
+
+---
+
+## 🌱 Currently Learning
+
+- React.js
+- Advanced JavaScript
+- Frontend Best Practices
+- Modern UI Design
+
+---
+
+## 📈 Goals
+
+- Build impactful web applications
+- Strengthen frontend development skills
+- Contribute to open-source projects
+- Continuously learn and grow as a developer
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *(Add your LinkedIn Profile)*
+- 📧 Email: *(Add your Email Address)*
+
+---
+
+⭐ *"Code. Learn. Build. Grow."*
